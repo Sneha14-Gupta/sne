@@ -1,0 +1,37 @@
+@font-face {
+    font-family: yoga;
+    src: url(Yoga.ttf);
+}
+h1{
+    font-family: yoga;
+    color: rgb(217, 26, 26);
+    text-align: center;
+}
+body{
+    background-image:url(yoga.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000;
+}
+nav{
+    text-align: right;
+}
+p{
+    margin-top: 7%;
+    font-family:sans-serif;
+    font-size: larger;
+    color: rgb(253, 6, 6);
+    text-align: center;
+}
+form{
+    text-align: center;
+    margin-top: 4%;
+
+}
+label{
+    color: rgb(41, 101, 153);
+    margin: 2%;
+    
+}
+input{
+    margin:1%;
+}
